@@ -1,0 +1,12 @@
+{
+  "flags": {
+    "AGRO2-1000": {
+      "state": "ENABLED",
+      "variants": {
+        "on": true,
+        "off": false
+      },
+      "defaultVariant": "off"
+    }
+  }
+}
